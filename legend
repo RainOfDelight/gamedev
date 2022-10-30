@@ -1,0 +1,12 @@
+e = empty space   (nothing, just space that the player can walk on)
+s = sand    (the player can move on sand and destroy it. The sand keeps object from falling down(example bombs, rocks, mummy or flies)
+a = player  (the player must get the orbs to the portal, and then get into the portal)
+z = portal  (needed to finish the level)
+r = rock    (can be pushed by the player) (is affected by gravity)
+o = orb     (the ones you neet to get to the portal)  (is affected by gravity)
+x = indestructible wall 
+w = destructible wall  (can be destroyed by explosions)
+f = fly   (this is the enamie that move clockwise/anticlockwise)
+b = bomb    (it explodes if a rock is thrown on it from distance >=1, or if the bomb itself drops from a distance >=1) (is affected by gravity)
+k = key     (it is used to open the door) (is affected by gravity)
+d = door    (the dor opens when the player touches the key)
